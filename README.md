@@ -1,4 +1,4 @@
-Link do slide da atividade: https://www.canva.com/design/DAG1-p2sgEk/fdmIc-Zud6ZiDXgNSJAfNg/edit?utm_content=DAG1-p2sgEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link do slide da atividade: https://www.canva.com/design/DAG3r99zr2U/60VJVN9477qJPgY5CiCoPw/edit?utm_content=DAG3r99zr2U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Nomes dos integrantes:
 <li>Osvaldo Ramalho de Sousa Junior</li>
