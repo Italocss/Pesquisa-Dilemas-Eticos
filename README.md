@@ -17,12 +17,6 @@ Este repositório contém a documentação e os materiais de pesquisa desenvolvi
 * A **responsabilidade** do profissional de tecnologia (desenvolvedores, analistas de sistemas) na mitigação desses problemas.
 * Análise de casos e propostas de **solução** ou **melhores práticas**.
 
-## 📁 Estrutura do Repositório
-
-O projeto está organizado da seguinte forma:
-
-* **[`Relato_Processo_Seletivo.pdf`](/Relato_Processo_Seletivo.pdf):** Documento final com o relatório completo da pesquisa e análise de processo seletivo.
-* **[Outros documentos que você tiver, ex: `Slides/`](/Slides/):** Materiais de apresentação ou anexos.
 
 ## 📝 Pontos-Chave da Pesquisa
 
